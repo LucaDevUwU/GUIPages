@@ -1,0 +1,5 @@
+name: GUIPages
+version: '${version}'
+main: com.snowy.guipages.GUIPages
+api-version: 1.19
+authors: [ Snowyy ]
